@@ -1,48 +1,72 @@
-# Svelte + Vite
+# The Project
 
-This template should help get you started developing with Svelte in Vite.
+Shuffle among your Spotify's playlist with accuracy.
 
-## Recommended IDE Setup
+demo here 🔥 (optimize for mobile 📱) : https://shuffle-spotify-svelte.netlify.app
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+I implement the iOS (🍎) version of the mobile Spotify app.
 
-## Need an official Svelte framework?
+# Technologies
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+Svelte (+SvelteKit) : I 💚 Svelte since I try it after learning React & Vue.
+I love the simplicity & the conventions.
 
-## Technical considerations
+Vite : I was impressed when Evan You (creator of Vue.js) has demonstrated this new tool... Because I love Vue, I also decided to give it a try.
 
-**Why use this over SvelteKit?**
+CSS : I use native CSS instead of pre-processors (e.g. sass, stylus...)
 
-- It brings its own routing solution which might not be preferable for some users.
-- It is first and foremost a framework that just happens to use Vite under the hood, not a Vite app.
-  `vite dev` and `vite build` wouldn't work in a SvelteKit environment, for example.
+# Best practices
 
-This template contains as little as possible to get started with Vite + Svelte, while taking into account the developer experience with regards to HMR and intellisense. It demonstrates capabilities on par with the other `create-vite` templates and is a good starting point for beginners dipping their toes into a Vite + Svelte project.
+Organize CSS properties :
 
-Should you later need the extended capabilities and extensibility provided by SvelteKit, the template has been structured similarly to SvelteKit so that it is easy to migrate.
+https://medium.com/swlh/better-ways-to-organise-css-properties-9a066e7ded62
+![summary](https://miro.medium.com/max/1400/1*RYMDPwcVjiZDbOJy4hfYmw.png)
 
-**Why `global.d.ts` instead of `compilerOptions.types` inside `jsconfig.json` or `tsconfig.json`?**
+Hack 100vh viewport on iOS :
 
-Setting `compilerOptions.types` shuts out all other types not explicitly listed in the configuration. Using triple-slash references keeps the default TypeScript setting of accepting type information from the entire workspace, while also adding `svelte` and `vite/client` type information.
+https://stackoverflow.com/a/54690380/4895079
 
-**Why include `.vscode/extensions.json`?**
+Best way to import SVG icons into a Svelte app
 
-Other templates indirectly recommend extensions via the README, but this file allows VS Code to prompt the user to install the recommended extension upon opening the project.
+https://stackoverflow.com/questions/66069647/best-way-to-import-svg-icons-into-a-svelte-app
 
-**Why enable `checkJs` in the JS template?**
+Page transition in SvelteKit
+https://dev.to/evanwinter/page-transitions-with-svelte-kit-35o6
 
-It is likely that most cases of changing variable types in runtime are likely to be accidental, rather than deliberate. This provides advanced typechecking out of the box. Should you like to take advantage of the dynamically-typed nature of JavaScript, it is trivial to change the configuration.
+Smooth transition (iOS-like) in svelte :
 
-**Why is HMR not preserving my local component state?**
+https://stackoverflow.com/questions/59882179/svelte-transition-between-two-elements-jumps
 
-HMR state preservation comes with a number of gotchas! It has been disabled by default in both `svelte-hmr` and `@sveltejs/vite-plugin-svelte` due to its often surprising behavior. You can read the details [here](https://github.com/rixo/svelte-hmr#svelte-hmr).
+Fixed speed of a CSS animation duration :
 
-If you have state that's important to retain within a component, consider creating an external store which would not be replaced by HMR.
+https://stackoverflow.com/questions/34711237/set-css-transition-to-use-speed-instead-of-duration
 
-```js
-// store.js
-// An extremely simple external store
-import { writable } from 'svelte/store'
-export default writable(0)
-```
+# TODO
+
+- design "select" view
+- design "playback" view
+- design "popup playback" view
+- design "shuffle" view
+- design "queue" view
+- design "parameter" panel
+- add test to Component
+
+- authenticate to spotify API
+- dynamize "log in" view
+- dynamize "select" view
+- dynamize "playback" view
+- dynamize "popup playback" view
+- dynamize "shuffle" view
+- dynamize "queue" view
+- dynamize "parameter" panel
+- list playlists
+- play a song
+- play a playlist
+
+- persist data ?
+
+- test on android
+- feedback by one user
+
+- format/lint code
+- remove all local or github repositories related to Spotify
