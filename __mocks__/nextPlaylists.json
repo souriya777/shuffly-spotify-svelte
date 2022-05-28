@@ -1,0 +1,1982 @@
+[
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5CJP48wgHBCVRRIQ9VaB6L"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5CJP48wgHBCVRRIQ9VaB6L",
+    "id": "5CJP48wgHBCVRRIQ9VaB6L",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730bdf4dd39843ad48c5b66bc4ab67616d0000b27345ec2531f00be5f33074d858ab67616d0000b273a9ac825cee5e3985ea9d449dab67616d0000b273b68df485f3304211904548a8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730bdf4dd39843ad48c5b66bc4ab67616d0000b27345ec2531f00be5f33074d858ab67616d0000b273a9ac825cee5e3985ea9d449dab67616d0000b273b68df485f3304211904548a8",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730bdf4dd39843ad48c5b66bc4ab67616d0000b27345ec2531f00be5f33074d858ab67616d0000b273a9ac825cee5e3985ea9d449dab67616d0000b273b68df485f3304211904548a8",
+        "width": 60
+      }
+    ],
+    "name": "comédie 🎶(joie)",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjEsODMyOTc0M2RiZDg2YTQ3YjQ4MTI0OWQzNTRmMWQwMjUzNGEyMTUyYg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5CJP48wgHBCVRRIQ9VaB6L/tracks",
+      "total": 15
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5CJP48wgHBCVRRIQ9VaB6L"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5Bi15UDSHMOrdO1YkffHPx"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5Bi15UDSHMOrdO1YkffHPx",
+    "id": "5Bi15UDSHMOrdO1YkffHPx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27328726ebdc067c1ed9b417723ab67616d0000b273745ec91ee3ffb996a2b6628fab67616d0000b273b4f7387e002e6bbc12a5413eab67616d0000b273e3b1cdbb2095804f83056bcd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27328726ebdc067c1ed9b417723ab67616d0000b273745ec91ee3ffb996a2b6628fab67616d0000b273b4f7387e002e6bbc12a5413eab67616d0000b273e3b1cdbb2095804f83056bcd",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27328726ebdc067c1ed9b417723ab67616d0000b273745ec91ee3ffb996a2b6628fab67616d0000b273b4f7387e002e6bbc12a5413eab67616d0000b273e3b1cdbb2095804f83056bcd",
+        "width": 60
+      }
+    ],
+    "name": "Oldies 60",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Mjc0LGQ3NjI4YjkyM2FhNTAyNTMyNTkyNjlkMGFiNmE5YTgyNjgyOGY5NTA=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5Bi15UDSHMOrdO1YkffHPx/tracks",
+      "total": 55
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5Bi15UDSHMOrdO1YkffHPx"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0rBKERzkbvfRSCRGQBbmc4"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0rBKERzkbvfRSCRGQBbmc4",
+    "id": "0rBKERzkbvfRSCRGQBbmc4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273423b4546e094fd93106fdfdcab67616d0000b27380619aadf960d102f987c900ab67616d0000b27393ff0998c65f3d060703c1cfab67616d0000b273db56ceff816b668b7b6f04ff",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273423b4546e094fd93106fdfdcab67616d0000b27380619aadf960d102f987c900ab67616d0000b27393ff0998c65f3d060703c1cfab67616d0000b273db56ceff816b668b7b6f04ff",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273423b4546e094fd93106fdfdcab67616d0000b27380619aadf960d102f987c900ab67616d0000b27393ff0998c65f3d060703c1cfab67616d0000b273db56ceff816b668b7b6f04ff",
+        "width": 60
+      }
+    ],
+    "name": "KITCH (joie)",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTA4LGJiNDZlNTA1MmNlZjliZTNhZTYxOTZjMmE3OTgxZmFkMTEyZTA1ZWU=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0rBKERzkbvfRSCRGQBbmc4/tracks",
+      "total": 36
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0rBKERzkbvfRSCRGQBbmc4"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3MtMal6Vmq8n4sgrCabuBM"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3MtMal6Vmq8n4sgrCabuBM",
+    "id": "3MtMal6Vmq8n4sgrCabuBM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733d4dae7995a0bc8bfe3c185c",
+        "width": 640
+      }
+    ],
+    "name": "meufs texte",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MzUsYWZiMTI4MDI3NTQyNTNlN2FiMmUxYjM0OTllMGVlMzg3ZTlhZjAzOA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3MtMal6Vmq8n4sgrCabuBM/tracks",
+      "total": 4
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3MtMal6Vmq8n4sgrCabuBM"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3hPO81Jx7vIsSAehg97syB"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3hPO81Jx7vIsSAehg97syB",
+    "id": "3hPO81Jx7vIsSAehg97syB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27303cd8e1b319b629307e14418",
+        "width": 640
+      }
+    ],
+    "name": "râteau",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MywwZDQwMjE2ZTU1OWE1ZTlkOGRmOTA1NmEzNThiNDJiMThiZGFjZjM5",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3hPO81Jx7vIsSAehg97syB/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3hPO81Jx7vIsSAehg97syB"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3Z3btTHiNpXUkWBmIikkiK"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3Z3btTHiNpXUkWBmIikkiK",
+    "id": "3Z3btTHiNpXUkWBmIikkiK",
+    "images": [
+      {
+        "height": null,
+        "url": "https://i.scdn.co/image/ab67706c0000da84e898f379bea492c931634920",
+        "width": null
+      }
+    ],
+    "name": "my doo-wop v(^i^)",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "OSxjMTQ2MjE2YmZiMzFlYWE3Y2ZlNDE5OGZkOTFkOGQ2NjZkZDU0MjNk",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3Z3btTHiNpXUkWBmIikkiK/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3Z3btTHiNpXUkWBmIikkiK"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0Hrd9TlXYwpVNNkDzVHObG"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0Hrd9TlXYwpVNNkDzVHObG",
+    "id": "0Hrd9TlXYwpVNNkDzVHObG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27305b8822f8547c0fcd5f4e253ab67616d0000b2731d6d3d544ca5b46453fafbb6ab67616d0000b2732d50b623c7c02b335b4c720fab67616d0000b273932a2c6b324ba9e3c59fac4d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27305b8822f8547c0fcd5f4e253ab67616d0000b2731d6d3d544ca5b46453fafbb6ab67616d0000b2732d50b623c7c02b335b4c720fab67616d0000b273932a2c6b324ba9e3c59fac4d",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27305b8822f8547c0fcd5f4e253ab67616d0000b2731d6d3d544ca5b46453fafbb6ab67616d0000b2732d50b623c7c02b335b4c720fab67616d0000b273932a2c6b324ba9e3c59fac4d",
+        "width": 60
+      }
+    ],
+    "name": "bachata 💃❤️",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTUyLGU2ZjdkZWYyZGVkYjQyNWI3N2ZmMjQ1ZTZmMTk1OTRhMzNhMTE3YTM=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0Hrd9TlXYwpVNNkDzVHObG/tracks",
+      "total": 51
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0Hrd9TlXYwpVNNkDzVHObG"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4gaFcGywUMezsqVLHvMVuc"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4gaFcGywUMezsqVLHvMVuc",
+    "id": "4gaFcGywUMezsqVLHvMVuc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27306411bcf424a374d712a60bdab67616d0000b27330b0858b34369e719deaee7eab67616d0000b273f43ca9d3d508be9501e55b34ab67616d0000b273f4e0f684077ec86acf8fb550",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27306411bcf424a374d712a60bdab67616d0000b27330b0858b34369e719deaee7eab67616d0000b273f43ca9d3d508be9501e55b34ab67616d0000b273f4e0f684077ec86acf8fb550",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27306411bcf424a374d712a60bdab67616d0000b27330b0858b34369e719deaee7eab67616d0000b273f43ca9d3d508be9501e55b34ab67616d0000b273f4e0f684077ec86acf8fb550",
+        "width": 60
+      }
+    ],
+    "name": "balade romantique 💑",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTYwLDdkY2ViMDA4MzA4M2NjYzU0YzVmMjg4Y2NlYzg3NmZkMTFhN2JjYmQ=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4gaFcGywUMezsqVLHvMVuc/tracks",
+      "total": 15
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4gaFcGywUMezsqVLHvMVuc"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3Lwkhzai7meuoRsWHukcrU"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3Lwkhzai7meuoRsWHukcrU",
+    "id": "3Lwkhzai7meuoRsWHukcrU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273014aa443a4cd3b7d70a988f8ab67616d0000b2736c1180ae683cc09d840a9163ab67616d0000b2737bcad7eac309cb60e5b0b33dab67616d0000b273f295f58b8be32770cdfa828a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273014aa443a4cd3b7d70a988f8ab67616d0000b2736c1180ae683cc09d840a9163ab67616d0000b2737bcad7eac309cb60e5b0b33dab67616d0000b273f295f58b8be32770cdfa828a",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273014aa443a4cd3b7d70a988f8ab67616d0000b2736c1180ae683cc09d840a9163ab67616d0000b2737bcad7eac309cb60e5b0b33dab67616d0000b273f295f58b8be32770cdfa828a",
+        "width": 60
+      }
+    ],
+    "name": "Animation",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTAsN2U1Yzg4MjRiOTUxMDNiZDc0NGRhODRhNTg0NjFkOTg5ZTMwOTU4Zg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3Lwkhzai7meuoRsWHukcrU/tracks",
+      "total": 9
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3Lwkhzai7meuoRsWHukcrU"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/79DDJRPWt9zXOQtPPD6vnW"
+    },
+    "href": "https://api.spotify.com/v1/playlists/79DDJRPWt9zXOQtPPD6vnW",
+    "id": "79DDJRPWt9zXOQtPPD6vnW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730660de867ec8fd496c66acfdab67616d0000b273bdccb723e456566087b19cb8ab67616d0000b273c9286d906cb2c6a505b67a5bab67616d0000b273e1c01958a78f01b1ba2dd02a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730660de867ec8fd496c66acfdab67616d0000b273bdccb723e456566087b19cb8ab67616d0000b273c9286d906cb2c6a505b67a5bab67616d0000b273e1c01958a78f01b1ba2dd02a",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730660de867ec8fd496c66acfdab67616d0000b273bdccb723e456566087b19cb8ab67616d0000b273c9286d906cb2c6a505b67a5bab67616d0000b273e1c01958a78f01b1ba2dd02a",
+        "width": 60
+      }
+    ],
+    "name": "rumba 🇨🇺🛢️",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjYsMWExODM0ZjhjZmUyNGZmYTNhOTU4MDc4M2M1ZTRmZDM3MzkxNzUwMg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/79DDJRPWt9zXOQtPPD6vnW/tracks",
+      "total": 11
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:79DDJRPWt9zXOQtPPD6vnW"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/41m5kThWZ8zR7E4c314sC6"
+    },
+    "href": "https://api.spotify.com/v1/playlists/41m5kThWZ8zR7E4c314sC6",
+    "id": "41m5kThWZ8zR7E4c314sC6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a2c66975234d4794c77aa672",
+        "width": 640
+      }
+    ],
+    "name": "kpop (sad, crying...)",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjIsZjk3ZjkwMzA2YWNmMDQ0ZGVhYjg3NTA1MGI2MDNhNDQ3MThhYzczYw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/41m5kThWZ8zR7E4c314sC6/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:41m5kThWZ8zR7E4c314sC6"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1XHG01LFGk7owtER5hMEor"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1XHG01LFGk7owtER5hMEor",
+    "id": "1XHG01LFGk7owtER5hMEor",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731ae2f686e6b1659a760a4b9bab67616d0000b27323e3b86dafe39d2e4888d71eab67616d0000b273e24b9afc3edc6d08035b7b5eab67616d0000b273fdb3a0b94dff953262b5824f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731ae2f686e6b1659a760a4b9bab67616d0000b27323e3b86dafe39d2e4888d71eab67616d0000b273e24b9afc3edc6d08035b7b5eab67616d0000b273fdb3a0b94dff953262b5824f",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731ae2f686e6b1659a760a4b9bab67616d0000b27323e3b86dafe39d2e4888d71eab67616d0000b273e24b9afc3edc6d08035b7b5eab67616d0000b273fdb3a0b94dff953262b5824f",
+        "width": 60
+      }
+    ],
+    "name": "afro enjaillance",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjgsODI1ZWY3N2I3YTM5ZjJkODNhM2NlNzYwMmI1YmI5YjE0Mjc1MWI0OA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1XHG01LFGk7owtER5hMEor/tracks",
+      "total": 9
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1XHG01LFGk7owtER5hMEor"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5bZdWn0MDlwoPdbkUmpcZW"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5bZdWn0MDlwoPdbkUmpcZW",
+    "id": "5bZdWn0MDlwoPdbkUmpcZW",
+    "images": [
+      {
+        "height": null,
+        "url": "https://i.scdn.co/image/ab67706c0000da8433782c5f5c7ff451326520f2",
+        "width": null
+      }
+    ],
+    "name": "my neyo v(^i^)",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTYsZTdkMDI3Zjk3YTZkOGM1YmJmOTM3MDdiZWI0YWZjMGM1ZDNkZmViYQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5bZdWn0MDlwoPdbkUmpcZW/tracks",
+      "total": 38
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5bZdWn0MDlwoPdbkUmpcZW"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2ZOgVf5IiYW9akx0WQfhN4"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2ZOgVf5IiYW9akx0WQfhN4",
+    "id": "2ZOgVf5IiYW9akx0WQfhN4",
+    "images": [],
+    "name": "willy denzey",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "Myw1OGQ3MmU2NDI4ODBhY2IzOGY4M2EyMDNiZTU1YmNkZmM3NWY0NGMw",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2ZOgVf5IiYW9akx0WQfhN4/tracks",
+      "total": 9
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2ZOgVf5IiYW9akx0WQfhN4"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4swY8gtDc1gr96RFgLAfFH"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4swY8gtDc1gr96RFgLAfFH",
+    "id": "4swY8gtDc1gr96RFgLAfFH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273256fb383be03ee3fd966b87eab67616d0000b2737e8b3e67304fa044d1499508ab67616d0000b2738d2a873567851166946387a0ab67616d0000b27392fdda2b0541d8d0ff5db7a5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273256fb383be03ee3fd966b87eab67616d0000b2737e8b3e67304fa044d1499508ab67616d0000b2738d2a873567851166946387a0ab67616d0000b27392fdda2b0541d8d0ff5db7a5",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273256fb383be03ee3fd966b87eab67616d0000b2737e8b3e67304fa044d1499508ab67616d0000b2738d2a873567851166946387a0ab67616d0000b27392fdda2b0541d8d0ff5db7a5",
+        "width": 60
+      }
+    ],
+    "name": "triste 😭",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NzEsMzQ2OWM4M2I0NjkzNTEzMjhhMjVlY2VkMDZmYTdkYTg1ZmMxYjUxYg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4swY8gtDc1gr96RFgLAfFH/tracks",
+      "total": 80
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4swY8gtDc1gr96RFgLAfFH"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5PYeEAjs6I41ysDMW7s1WY"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5PYeEAjs6I41ysDMW7s1WY",
+    "id": "5PYeEAjs6I41ysDMW7s1WY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2735fac2aabbb52ff9fc4c1faa1ab67616d0000b2736a45d20e414fbc456ecea553ab67616d0000b2738cdb0d29bb99ad4febccac39ab67616d0000b2739d15ac96a7c7839ba25bc5b3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2735fac2aabbb52ff9fc4c1faa1ab67616d0000b2736a45d20e414fbc456ecea553ab67616d0000b2738cdb0d29bb99ad4febccac39ab67616d0000b2739d15ac96a7c7839ba25bc5b3",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2735fac2aabbb52ff9fc4c1faa1ab67616d0000b2736a45d20e414fbc456ecea553ab67616d0000b2738cdb0d29bb99ad4febccac39ab67616d0000b2739d15ac96a7c7839ba25bc5b3",
+        "width": 60
+      }
+    ],
+    "name": "summer fiesta ⛱️🍹🌴",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NjAsMjI4ZmZjZjE3NGMwZWYwYWE3YjY1OTkwMmM2MDkyYjhmYzkzNGU2Mg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5PYeEAjs6I41ysDMW7s1WY/tracks",
+      "total": 53
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5PYeEAjs6I41ysDMW7s1WY"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/29wzVwvi9kjesa3Uj2hEGg"
+    },
+    "href": "https://api.spotify.com/v1/playlists/29wzVwvi9kjesa3Uj2hEGg",
+    "id": "29wzVwvi9kjesa3Uj2hEGg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2734f3b851619040434f6ba58c4ab67616d0000b273b29048025f7a3c80428a6c1eab67616d0000b273d843fabb75fef14010e30caeab67616d0000b273e45e4034987d47d2338030eb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2734f3b851619040434f6ba58c4ab67616d0000b273b29048025f7a3c80428a6c1eab67616d0000b273d843fabb75fef14010e30caeab67616d0000b273e45e4034987d47d2338030eb",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2734f3b851619040434f6ba58c4ab67616d0000b273b29048025f7a3c80428a6c1eab67616d0000b273d843fabb75fef14010e30caeab67616d0000b273e45e4034987d47d2338030eb",
+        "width": 60
+      }
+    ],
+    "name": "rap us 🔫",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTQwLDBlZWViZjFhZTFkMmQ2OWU2ZmJhYjQ0ZTc5MjI1YWI3NGUwNTg1NmI=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/29wzVwvi9kjesa3Uj2hEGg/tracks",
+      "total": 107
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:29wzVwvi9kjesa3Uj2hEGg"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4SuuituKTHsNlwz1OeMFLg"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4SuuituKTHsNlwz1OeMFLg",
+    "id": "4SuuituKTHsNlwz1OeMFLg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732fdf6c5678dd581db571835cab67616d0000b273456bb7b52721d786b9f7b773ab67616d0000b27370f8bd9a135cf3284b3c4104ab67616d0000b273d8235afa7d56939fffc75847",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732fdf6c5678dd581db571835cab67616d0000b273456bb7b52721d786b9f7b773ab67616d0000b27370f8bd9a135cf3284b3c4104ab67616d0000b273d8235afa7d56939fffc75847",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732fdf6c5678dd581db571835cab67616d0000b273456bb7b52721d786b9f7b773ab67616d0000b27370f8bd9a135cf3284b3c4104ab67616d0000b273d8235afa7d56939fffc75847",
+        "width": 60
+      }
+    ],
+    "name": "semba 🇦🇴",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTAsODI4ZjFiMGE5ZWRjMWQ4YjUxMWQwZWNkODBkNzc0ZWU5YThhNzhlYw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4SuuituKTHsNlwz1OeMFLg/tracks",
+      "total": 10
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4SuuituKTHsNlwz1OeMFLg"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2g0bXJjmb6I578YhcdAxZ2"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2g0bXJjmb6I578YhcdAxZ2",
+    "id": "2g0bXJjmb6I578YhcdAxZ2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27311515e87e0001996f6ab35e3",
+        "width": 640
+      }
+    ],
+    "name": "dreams come true 🌙",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MzEsNmI4Yjg5Y2QyNjdlMDA5ODQxMDI3MTQ4Y2ZkYTk4M2YyNDgzNWZlNg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2g0bXJjmb6I578YhcdAxZ2/tracks",
+      "total": 49
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2g0bXJjmb6I578YhcdAxZ2"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/50j6B1K0I04KKriPvv5CUw"
+    },
+    "href": "https://api.spotify.com/v1/playlists/50j6B1K0I04KKriPvv5CUw",
+    "id": "50j6B1K0I04KKriPvv5CUw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731d0ffc78050834e535e7779fab67616d0000b2731ee6f1746fc33916460dcc92ab67616d0000b2734240b071a700ef32ceb0e550ab67616d0000b27393a6bec176d8296c678c6dac",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731d0ffc78050834e535e7779fab67616d0000b2731ee6f1746fc33916460dcc92ab67616d0000b2734240b071a700ef32ceb0e550ab67616d0000b27393a6bec176d8296c678c6dac",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731d0ffc78050834e535e7779fab67616d0000b2731ee6f1746fc33916460dcc92ab67616d0000b2734240b071a700ef32ceb0e550ab67616d0000b27393a6bec176d8296c678c6dac",
+        "width": 60
+      }
+    ],
+    "name": "kiz 🔥🎵",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NDYsZDE4MjgyZTAxOTgxMWUwOThmM2QwNDhiN2U5ZTAzOGI0NzRhYmFmOA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/50j6B1K0I04KKriPvv5CUw/tracks",
+      "total": 19
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:50j6B1K0I04KKriPvv5CUw"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7Ep8Uc6ZjsroyPpoVHkNPZ"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7Ep8Uc6ZjsroyPpoVHkNPZ",
+    "id": "7Ep8Uc6ZjsroyPpoVHkNPZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733a2966a21d3f44aa459c5720ab67616d0000b273bb669915b94abc7b136fa21aab67616d0000b273d11c9193aa6992c1145bde80ab67616d0000b273f4866b341434bd9fb9a95a81",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733a2966a21d3f44aa459c5720ab67616d0000b273bb669915b94abc7b136fa21aab67616d0000b273d11c9193aa6992c1145bde80ab67616d0000b273f4866b341434bd9fb9a95a81",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733a2966a21d3f44aa459c5720ab67616d0000b273bb669915b94abc7b136fa21aab67616d0000b273d11c9193aa6992c1145bde80ab67616d0000b273f4866b341434bd9fb9a95a81",
+        "width": 60
+      }
+    ],
+    "name": "itg",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NixmMGQ0MWQxNGYzMGZkMjcwNjUyNjAzZmZmNWU3ZmY0YTdiMDg2MWE0",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7Ep8Uc6ZjsroyPpoVHkNPZ/tracks",
+      "total": 4
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7Ep8Uc6ZjsroyPpoVHkNPZ"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0KuLTdc5hWOuMmUXgZTxHk"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0KuLTdc5hWOuMmUXgZTxHk",
+    "id": "0KuLTdc5hWOuMmUXgZTxHk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732ebe815497b0990e0e6debe9ab67616d0000b2733d207c7490d0a080991efc40ab67616d0000b273433221d47352660a7ac2a796ab67616d0000b273ad874d7d1ccac2b91d7279f8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732ebe815497b0990e0e6debe9ab67616d0000b2733d207c7490d0a080991efc40ab67616d0000b273433221d47352660a7ac2a796ab67616d0000b273ad874d7d1ccac2b91d7279f8",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732ebe815497b0990e0e6debe9ab67616d0000b2733d207c7490d0a080991efc40ab67616d0000b273433221d47352660a7ac2a796ab67616d0000b273ad874d7d1ccac2b91d7279f8",
+        "width": 60
+      }
+    ],
+    "name": "violon 🎻 🌙",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NTgsYzdjYjZmNmYwMzVlY2I1ZTQyMzAzNmI0ZTIwZWExMDM0MDA3ZGI5Yg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0KuLTdc5hWOuMmUXgZTxHk/tracks",
+      "total": 33
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0KuLTdc5hWOuMmUXgZTxHk"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5tydXasvHCihwLcvsrRnw4"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5tydXasvHCihwLcvsrRnw4",
+    "id": "5tydXasvHCihwLcvsrRnw4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273569e86314606acd889922d39",
+        "width": 640
+      }
+    ],
+    "name": "PIANO",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NiwwNGZmYWMzOWYwYzFkN2VkMGExZDEyZGQwNTJkODg2MGQwOWI1NzQ1",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5tydXasvHCihwLcvsrRnw4/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5tydXasvHCihwLcvsrRnw4"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0BNLUunrTa7oawDNkcHyZy"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0BNLUunrTa7oawDNkcHyZy",
+    "id": "0BNLUunrTa7oawDNkcHyZy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730473ac74e247a72e083a344dab67616d0000b2730940f22d17c0f5b1b58cdafaab67616d0000b27392fdda2b0541d8d0ff5db7a5ab67616d0000b273c5e06f682c3f0439896931c8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730473ac74e247a72e083a344dab67616d0000b2730940f22d17c0f5b1b58cdafaab67616d0000b27392fdda2b0541d8d0ff5db7a5ab67616d0000b273c5e06f682c3f0439896931c8",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730473ac74e247a72e083a344dab67616d0000b2730940f22d17c0f5b1b58cdafaab67616d0000b27392fdda2b0541d8d0ff5db7a5ab67616d0000b273c5e06f682c3f0439896931c8",
+        "width": 60
+      }
+    ],
+    "name": "show",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjEsNjRiNTk2MzU4OGEwZWM2ZGI4OWE4Y2M5ZmRhMjAzMDk1MDA5NmEzOA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0BNLUunrTa7oawDNkcHyZy/tracks",
+      "total": 14
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0BNLUunrTa7oawDNkcHyZy"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2KMfXxiIVVjy7o6A4OfvVg"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2KMfXxiIVVjy7o6A4OfvVg",
+    "id": "2KMfXxiIVVjy7o6A4OfvVg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27329035ea37892b23fa78beafeab67616d0000b273575fb66ec11e54fb68d548a5ab67616d0000b27395069ae4a72aa63b7acfb9ceab67616d0000b273ce90428338a0aa1511399d20",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27329035ea37892b23fa78beafeab67616d0000b273575fb66ec11e54fb68d548a5ab67616d0000b27395069ae4a72aa63b7acfb9ceab67616d0000b273ce90428338a0aa1511399d20",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27329035ea37892b23fa78beafeab67616d0000b273575fb66ec11e54fb68d548a5ab67616d0000b27395069ae4a72aa63b7acfb9ceab67616d0000b273ce90428338a0aa1511399d20",
+        "width": 60
+      }
+    ],
+    "name": "LATIN ADO",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "OSxjZTc2OTUzY2IyZWM1ZTI2MmU0Y2ViNDI5NzY4ZDBiYWM0YzliZDc2",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2KMfXxiIVVjy7o6A4OfvVg/tracks",
+      "total": 8
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2KMfXxiIVVjy7o6A4OfvVg"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4cKmyLa36tSN334mDvyadA"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4cKmyLa36tSN334mDvyadA",
+    "id": "4cKmyLa36tSN334mDvyadA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27352038992fc6d7868f31d23b7ab67616d0000b273ac3605b837625e2c25159767ab67616d0000b273b09726365de485ac0fe0202fab67616d0000b273b18e478d1a7e8256c2291506",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27352038992fc6d7868f31d23b7ab67616d0000b273ac3605b837625e2c25159767ab67616d0000b273b09726365de485ac0fe0202fab67616d0000b273b18e478d1a7e8256c2291506",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27352038992fc6d7868f31d23b7ab67616d0000b273ac3605b837625e2c25159767ab67616d0000b273b09726365de485ac0fe0202fab67616d0000b273b18e478d1a7e8256c2291506",
+        "width": 60
+      }
+    ],
+    "name": "NOSTALGIQUE",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NSxkNjgzZWIyMjYzYzBiZmRmNzM5OGE4NWRiZTgyNTAxZTMwMTRiMDk1",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4cKmyLa36tSN334mDvyadA/tracks",
+      "total": 5
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4cKmyLa36tSN334mDvyadA"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3U3WxPNu0UMThg8W8Bfvy5"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3U3WxPNu0UMThg8W8Bfvy5",
+    "id": "3U3WxPNu0UMThg8W8Bfvy5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2735d5db6b9502b80ef80685698ab67616d0000b27371b1dc433b6f6e3ef3c0041eab67616d0000b273856e2b190768157010e19fd4ab67616d0000b273f37e26f5dc54cf9e0bf7aa19",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2735d5db6b9502b80ef80685698ab67616d0000b27371b1dc433b6f6e3ef3c0041eab67616d0000b273856e2b190768157010e19fd4ab67616d0000b273f37e26f5dc54cf9e0bf7aa19",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2735d5db6b9502b80ef80685698ab67616d0000b27371b1dc433b6f6e3ef3c0041eab67616d0000b273856e2b190768157010e19fd4ab67616d0000b273f37e26f5dc54cf9e0bf7aa19",
+        "width": 60
+      }
+    ],
+    "name": "trip to laos",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NDcsOTZjZmM1MDFkNWUxMzY5MWU1YzE3NTJkMmQyMjlhY2RjMGY0Y2YxZQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3U3WxPNu0UMThg8W8Bfvy5/tracks",
+      "total": 19
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3U3WxPNu0UMThg8W8Bfvy5"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4cqlUxYB80PiuAPUPpcDqK"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4cqlUxYB80PiuAPUPpcDqK",
+    "id": "4cqlUxYB80PiuAPUPpcDqK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2738437437ce579072d84abe5adab67616d0000b273a036e1724bc7f2bab15cfda8ab67616d0000b273d8a0a4c940cc5a910a2adc7dab67616d0000b273fe1a9aa59e3c6189a09ae37a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2738437437ce579072d84abe5adab67616d0000b273a036e1724bc7f2bab15cfda8ab67616d0000b273d8a0a4c940cc5a910a2adc7dab67616d0000b273fe1a9aa59e3c6189a09ae37a",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2738437437ce579072d84abe5adab67616d0000b273a036e1724bc7f2bab15cfda8ab67616d0000b273d8a0a4c940cc5a910a2adc7dab67616d0000b273fe1a9aa59e3c6189a09ae37a",
+        "width": 60
+      }
+    ],
+    "name": "je souris :)",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NjEsOWNkNTVhNmM1OGNiMzAyMzdlNTcxOGUxZWY4NDlkMTMxNDZhZjkzNA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4cqlUxYB80PiuAPUPpcDqK/tracks",
+      "total": 41
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4cqlUxYB80PiuAPUPpcDqK"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0u9CkcZTosSaUD2bTSyJIE"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0u9CkcZTosSaUD2bTSyJIE",
+    "id": "0u9CkcZTosSaUD2bTSyJIE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273511cc998154eebad1694f9c2ab67616d0000b273e62cfdb29fcdf24525f43254ab67616d0000b273e638dfbd1f3089878f38c73bab67616d0000b273fdc64ffdbc82d7e7559abd86",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273511cc998154eebad1694f9c2ab67616d0000b273e62cfdb29fcdf24525f43254ab67616d0000b273e638dfbd1f3089878f38c73bab67616d0000b273fdc64ffdbc82d7e7559abd86",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273511cc998154eebad1694f9c2ab67616d0000b273e62cfdb29fcdf24525f43254ab67616d0000b273e638dfbd1f3089878f38c73bab67616d0000b273fdc64ffdbc82d7e7559abd86",
+        "width": 60
+      }
+    ],
+    "name": "LATIN DRAMA",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MzUsY2YxNzA1OGFjODI4NWEwZmU1MjMxMDk3ZWE1NDdlNDEwN2RjMDgzZg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0u9CkcZTosSaUD2bTSyJIE/tracks",
+      "total": 13
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0u9CkcZTosSaUD2bTSyJIE"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3eWkUaK2dDzA4VHw6SKj1Z"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3eWkUaK2dDzA4VHw6SKj1Z",
+    "id": "3eWkUaK2dDzA4VHw6SKj1Z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273650bdf72db7247b9013c12f0",
+        "width": 640
+      }
+    ],
+    "name": "BALLET",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NCxjYzUxZDVhNzVkYTk1MTJmZTE5YzE2MjA4YzE3ODNiMjAxOGYxODI0",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3eWkUaK2dDzA4VHw6SKj1Z/tracks",
+      "total": 30
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3eWkUaK2dDzA4VHw6SKj1Z"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4RF7mw2Acseouq7QOnaVi3"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4RF7mw2Acseouq7QOnaVi3",
+    "id": "4RF7mw2Acseouq7QOnaVi3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273281d111f61e7c7d47ed42208ab67616d0000b273530cec85d4543693bd726167ab67616d0000b273db56ceff816b668b7b6f04ffab67616d0000b273f4a3db1e7551dab2fb1c06e2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273281d111f61e7c7d47ed42208ab67616d0000b273530cec85d4543693bd726167ab67616d0000b273db56ceff816b668b7b6f04ffab67616d0000b273f4a3db1e7551dab2fb1c06e2",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273281d111f61e7c7d47ed42208ab67616d0000b273530cec85d4543693bd726167ab67616d0000b273db56ceff816b668b7b6f04ffab67616d0000b273f4a3db1e7551dab2fb1c06e2",
+        "width": 60
+      }
+    ],
+    "name": "BOYS BAND",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MzIsN2FhODQ0MjE1MzQxNWQxNjI1YzhkOTM0ODZhMTJlNThiODY1NTAwNw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4RF7mw2Acseouq7QOnaVi3/tracks",
+      "total": 19
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4RF7mw2Acseouq7QOnaVi3"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4c1CPpMxx1CSvmE4zBYW29"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4c1CPpMxx1CSvmE4zBYW29",
+    "id": "4c1CPpMxx1CSvmE4zBYW29",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2739449f9491c364d28a9668e17ab67616d0000b273bb669915b94abc7b136fa21aab67616d0000b273c6ba98fd3f3b396a6c6f7091ab67616d0000b273d11c9193aa6992c1145bde80",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2739449f9491c364d28a9668e17ab67616d0000b273bb669915b94abc7b136fa21aab67616d0000b273c6ba98fd3f3b396a6c6f7091ab67616d0000b273d11c9193aa6992c1145bde80",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2739449f9491c364d28a9668e17ab67616d0000b273bb669915b94abc7b136fa21aab67616d0000b273c6ba98fd3f3b396a6c6f7091ab67616d0000b273d11c9193aa6992c1145bde80",
+        "width": 60
+      }
+    ],
+    "name": "BODY MOUVEMENT",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTEsZmJlZGRiMTA3ZTY0MzI3NTMyZGU1YzBlMTdjMTFiNDBmYjc4MWE1MQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4c1CPpMxx1CSvmE4zBYW29/tracks",
+      "total": 9
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4c1CPpMxx1CSvmE4zBYW29"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1g04RseplfrcqmVNRcnoQ4"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1g04RseplfrcqmVNRcnoQ4",
+    "id": "1g04RseplfrcqmVNRcnoQ4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2736898a982ff3c6049ba52586cab67616d0000b273a388a3f20d1bf2123249cc79ab67616d0000b273c2ced39899b0d67cd5a724faab67616d0000b273cb44038b22f3d8a5e4e62d5a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2736898a982ff3c6049ba52586cab67616d0000b273a388a3f20d1bf2123249cc79ab67616d0000b273c2ced39899b0d67cd5a724faab67616d0000b273cb44038b22f3d8a5e4e62d5a",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2736898a982ff3c6049ba52586cab67616d0000b273a388a3f20d1bf2123249cc79ab67616d0000b273c2ced39899b0d67cd5a724faab67616d0000b273cb44038b22f3d8a5e4e62d5a",
+        "width": 60
+      }
+    ],
+    "name": "AVENTURES DOUCES",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MzAsNzk2NjBmZjBmNGEwOGM1MmNhOTZiZTA2NjBjYWViZTZkNGVjNWExNA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1g04RseplfrcqmVNRcnoQ4/tracks",
+      "total": 44
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1g04RseplfrcqmVNRcnoQ4"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7sg2Rh483hbI8Mis0cbz1V"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7sg2Rh483hbI8Mis0cbz1V",
+    "id": "7sg2Rh483hbI8Mis0cbz1V",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735b3c8caf805f9db763064dc6",
+        "width": 640
+      }
+    ],
+    "name": "BPM DE OUF",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "Nyw5YmUwOWQzM2FlNGM4ODA4OWFiZWJmOWE0MWUzYzc3OTg2OWY3YTVl",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7sg2Rh483hbI8Mis0cbz1V/tracks",
+      "total": 7
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7sg2Rh483hbI8Mis0cbz1V"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6s00SlXFU9nvNiNwQ4cDWd"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6s00SlXFU9nvNiNwQ4cDWd",
+    "id": "6s00SlXFU9nvNiNwQ4cDWd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732d7fcd7c2bef08f38f488626",
+        "width": 640
+      }
+    ],
+    "name": "FESTOYER",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "OSw4M2M4Mjc5NjU0MjMxMDA2OGVkYTA4MTI5ODVlMmRhNDc4NTI0NTY2",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6s00SlXFU9nvNiNwQ4cDWd/tracks",
+      "total": 5
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6s00SlXFU9nvNiNwQ4cDWd"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6xbe3gH43HWYXMm82JagSg"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6xbe3gH43HWYXMm82JagSg",
+    "id": "6xbe3gH43HWYXMm82JagSg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27343894cdbe3d9d28865662de4",
+        "width": 640
+      }
+    ],
+    "name": "FLAMENCO",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NixjY2NlYjVmN2FkYmIxYzM2NGViMzIwZGMzMWYzNzdkMzk1Yzg2MGQx",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6xbe3gH43HWYXMm82JagSg/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6xbe3gH43HWYXMm82JagSg"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/11pNI7wiaIddrUVwmIWWRy"
+    },
+    "href": "https://api.spotify.com/v1/playlists/11pNI7wiaIddrUVwmIWWRy",
+    "id": "11pNI7wiaIddrUVwmIWWRy",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731241de44a55df43894898959ab67616d0000b27321ac9e410c539b7508bcd3cbab67616d0000b273e4e9323337acce51a47bc76eab67616d0000b273f99077592b070cd1e1736b48",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731241de44a55df43894898959ab67616d0000b27321ac9e410c539b7508bcd3cbab67616d0000b273e4e9323337acce51a47bc76eab67616d0000b273f99077592b070cd1e1736b48",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731241de44a55df43894898959ab67616d0000b27321ac9e410c539b7508bcd3cbab67616d0000b273e4e9323337acce51a47bc76eab67616d0000b273f99077592b070cd1e1736b48",
+        "width": 60
+      }
+    ],
+    "name": "HOT",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NDQsYWM0ZjBjZTkzZGI0NzBmOWNjM2VmN2Y4Y2ZkMjg4ZTZlMzg5NmU2OQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/11pNI7wiaIddrUVwmIWWRy/tracks",
+      "total": 27
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:11pNI7wiaIddrUVwmIWWRy"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0ehrdIn2aBilLrd0QmCygW"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0ehrdIn2aBilLrd0QmCygW",
+    "id": "0ehrdIn2aBilLrd0QmCygW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732e016f07e093f0e7fef14edbab67616d0000b2733b02b14a13e600a5316a169aab67616d0000b273ccd48b6feae0e905908c0046ab67616d0000b273e1657c3f071328482de82d36",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732e016f07e093f0e7fef14edbab67616d0000b2733b02b14a13e600a5316a169aab67616d0000b273ccd48b6feae0e905908c0046ab67616d0000b273e1657c3f071328482de82d36",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732e016f07e093f0e7fef14edbab67616d0000b2733b02b14a13e600a5316a169aab67616d0000b273ccd48b6feae0e905908c0046ab67616d0000b273e1657c3f071328482de82d36",
+        "width": 60
+      }
+    ],
+    "name": "KPOP",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NSxjOWJhMDE2ZmExOGZkNTMxMThmZDI2ZjA5ZTM2ZDgxZjM5NDM4NDM5",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0ehrdIn2aBilLrd0QmCygW/tracks",
+      "total": 9
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0ehrdIn2aBilLrd0QmCygW"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5qRtTHMNmwJzWRNlIk9xqe"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5qRtTHMNmwJzWRNlIk9xqe",
+    "id": "5qRtTHMNmwJzWRNlIk9xqe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273002720aa5a73fda506f956afab67616d0000b273aca69b3ad3f34b767536e456ab67616d0000b273ca4aac4071c2b9fb1ecd05acab67616d0000b273e750615e1020bd259f04c7cf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273002720aa5a73fda506f956afab67616d0000b273aca69b3ad3f34b767536e456ab67616d0000b273ca4aac4071c2b9fb1ecd05acab67616d0000b273e750615e1020bd259f04c7cf",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273002720aa5a73fda506f956afab67616d0000b273aca69b3ad3f34b767536e456ab67616d0000b273ca4aac4071c2b9fb1ecd05acab67616d0000b273e750615e1020bd259f04c7cf",
+        "width": 60
+      }
+    ],
+    "name": "LOSC",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MyxiY2YwYjJmZDExMDkzOGM1NjY5MWRjODMxMDRhZDI0MDA1MDU4MTA4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5qRtTHMNmwJzWRNlIk9xqe/tracks",
+      "total": 19
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5qRtTHMNmwJzWRNlIk9xqe"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3Bd1YD9MvXM7xW6PgeHKs6"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3Bd1YD9MvXM7xW6PgeHKs6",
+    "id": "3Bd1YD9MvXM7xW6PgeHKs6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2735fba6cd9542dbaac5ee5d0abab67616d0000b27368ec68a2f14a9bebaba3974fab67616d0000b2736a728e871e138b9b461e95b1ab67616d0000b273e8f18432b4b272a15b7e8931",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2735fba6cd9542dbaac5ee5d0abab67616d0000b27368ec68a2f14a9bebaba3974fab67616d0000b2736a728e871e138b9b461e95b1ab67616d0000b273e8f18432b4b272a15b7e8931",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2735fba6cd9542dbaac5ee5d0abab67616d0000b27368ec68a2f14a9bebaba3974fab67616d0000b2736a728e871e138b9b461e95b1ab67616d0000b273e8f18432b4b272a15b7e8931",
+        "width": 60
+      }
+    ],
+    "name": "OPERA",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NzEsMDAwNmVhYzViMWQ4YTA2NzM2NDA0NzU3Yjc1ZWZhOGRkM2JjM2JmYQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3Bd1YD9MvXM7xW6PgeHKs6/tracks",
+      "total": 12
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3Bd1YD9MvXM7xW6PgeHKs6"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5af9hlA2YoJEdOyNWZHO85"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5af9hlA2YoJEdOyNWZHO85",
+    "id": "5af9hlA2YoJEdOyNWZHO85",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273060d951485f5ab1011132e21",
+        "width": 640
+      }
+    ],
+    "name": "POESIE INSTRUMENTALE",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCwzYTZiMjVkMTM1MDcxMzFmM2NiYzdmZjc5NWMxMTgxODgyZmZhNzhi",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5af9hlA2YoJEdOyNWZHO85/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5af9hlA2YoJEdOyNWZHO85"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1u4HagRrG0nktm4aBtdgnI"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1u4HagRrG0nktm4aBtdgnI",
+    "id": "1u4HagRrG0nktm4aBtdgnI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273020c2e0a4071cbe64e6d7159ab67616d0000b2731549d193fa137e835b0128efab67616d0000b2733b00389b0b6f9a793828c17bab67616d0000b2734431b6d71cbab67fc808a2fa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273020c2e0a4071cbe64e6d7159ab67616d0000b2731549d193fa137e835b0128efab67616d0000b2733b00389b0b6f9a793828c17bab67616d0000b2734431b6d71cbab67fc808a2fa",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273020c2e0a4071cbe64e6d7159ab67616d0000b2731549d193fa137e835b0128efab67616d0000b2733b00389b0b6f9a793828c17bab67616d0000b2734431b6d71cbab67fc808a2fa",
+        "width": 60
+      }
+    ],
+    "name": "RETRO NOSTALGIQUE",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjAsYmRiOTRkYjNkMzhiN2U5NzAwMDFkZjU1OTE4NDZkZGU5ZWU3NDA1Nw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1u4HagRrG0nktm4aBtdgnI/tracks",
+      "total": 15
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1u4HagRrG0nktm4aBtdgnI"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5rYCGSIcUQ8Ns99j2gw2Sr"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5rYCGSIcUQ8Ns99j2gw2Sr",
+    "id": "5rYCGSIcUQ8Ns99j2gw2Sr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27330d45198d0c9e8841f9a9578ab67616d0000b27389a8fab8bf8cd2b77da1fd17ab67616d0000b273b4ad7ebaf4575f120eb3f193ab67616d0000b273fd1f9d8bb6c1c9c2cb229837",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27330d45198d0c9e8841f9a9578ab67616d0000b27389a8fab8bf8cd2b77da1fd17ab67616d0000b273b4ad7ebaf4575f120eb3f193ab67616d0000b273fd1f9d8bb6c1c9c2cb229837",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27330d45198d0c9e8841f9a9578ab67616d0000b27389a8fab8bf8cd2b77da1fd17ab67616d0000b273b4ad7ebaf4575f120eb3f193ab67616d0000b273fd1f9d8bb6c1c9c2cb229837",
+        "width": 60
+      }
+    ],
+    "name": "REBELLE",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NTMsNDNhYWE4YzIwMmM2Nzg3ZmNkZWU3M2JhOTQ0YTk0NTk2MmQ3YzVlZA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5rYCGSIcUQ8Ns99j2gw2Sr/tracks",
+      "total": 32
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5rYCGSIcUQ8Ns99j2gw2Sr"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0wq78NdSIJkaQ2pYtNjetE"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0wq78NdSIJkaQ2pYtNjetE",
+    "id": "0wq78NdSIJkaQ2pYtNjetE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733933a425e4cadd3dd7dda3a5ab67616d0000b273980caf4dd525a15f08f8cb87ab67616d0000b273cb985820fdad1b2ff5402141ab67616d0000b273cf296ddc4884423db4c9b8d7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733933a425e4cadd3dd7dda3a5ab67616d0000b273980caf4dd525a15f08f8cb87ab67616d0000b273cb985820fdad1b2ff5402141ab67616d0000b273cf296ddc4884423db4c9b8d7",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733933a425e4cadd3dd7dda3a5ab67616d0000b273980caf4dd525a15f08f8cb87ab67616d0000b273cb985820fdad1b2ff5402141ab67616d0000b273cf296ddc4884423db4c9b8d7",
+        "width": 60
+      }
+    ],
+    "name": "SOUVENIRS",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjEzLDdhMGJhNzQxZTVlODNhN2UxODQwZGUzNTY2YmNjNjVjMmE2YTQ5YWI=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0wq78NdSIJkaQ2pYtNjetE/tracks",
+      "total": 197
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0wq78NdSIJkaQ2pYtNjetE"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1pl5WGDoS49mVGAeKZt17s"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1pl5WGDoS49mVGAeKZt17s",
+    "id": "1pl5WGDoS49mVGAeKZt17s",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27303af9cbe1b3c728e7cf8559eab67616d0000b27364dd0eb4768ecc50fc837ff5ab67616d0000b2738e207d491c6b329292e727bbab67616d0000b273eeb68d736a338dd406a0bdbd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27303af9cbe1b3c728e7cf8559eab67616d0000b27364dd0eb4768ecc50fc837ff5ab67616d0000b2738e207d491c6b329292e727bbab67616d0000b273eeb68d736a338dd406a0bdbd",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27303af9cbe1b3c728e7cf8559eab67616d0000b27364dd0eb4768ecc50fc837ff5ab67616d0000b2738e207d491c6b329292e727bbab67616d0000b273eeb68d736a338dd406a0bdbd",
+        "width": 60
+      }
+    ],
+    "name": "TEXTE",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjMsYmU3OTNjYWRkMzhkZDg0NDVhNzIyNjYyY2VlMTg4MzM3NDU2Yjg0Nw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1pl5WGDoS49mVGAeKZt17s/tracks",
+      "total": 91
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1pl5WGDoS49mVGAeKZt17s"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1zrHB5JFiSdGzgzqOblNbP"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1zrHB5JFiSdGzgzqOblNbP",
+    "id": "1zrHB5JFiSdGzgzqOblNbP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273387799441ba867649dfbb702ab67616d0000b2737e0b5fe0454234229e52a491ab67616d0000b273c5f30079a5afab8bb97fb077ab67616d0000b273f0e951707ca49b533fdbf64e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273387799441ba867649dfbb702ab67616d0000b2737e0b5fe0454234229e52a491ab67616d0000b273c5f30079a5afab8bb97fb077ab67616d0000b273f0e951707ca49b533fdbf64e",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273387799441ba867649dfbb702ab67616d0000b2737e0b5fe0454234229e52a491ab67616d0000b273c5f30079a5afab8bb97fb077ab67616d0000b273f0e951707ca49b533fdbf64e",
+        "width": 60
+      }
+    ],
+    "name": "TRANQUILLE",
+    "owner": {
+      "display_name": "laosoupi59",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/laosoupi59"
+      },
+      "href": "https://api.spotify.com/v1/users/laosoupi59",
+      "id": "laosoupi59",
+      "type": "user",
+      "uri": "spotify:user:laosoupi59"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NzksMzczNWQzODg1NmFlZWYzZTg1M2NmODc0YjBkZDUxNjg5MDg2YWM5ZA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1zrHB5JFiSdGzgzqOblNbP/tracks",
+      "total": 31
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1zrHB5JFiSdGzgzqOblNbP"
+  }
+]

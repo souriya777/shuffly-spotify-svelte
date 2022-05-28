@@ -1,0 +1,43 @@
+import { render, fireEvent } from "@testing-library/vue";
+import Button from "./Button.vue";
+
+describe("Button style", () => {
+  it("choose the 'outlined' style", async () => {
+    const { getByText, container } = render(<Button variant="outlined" />);
+    const button = container.getElementsByClassName("button")[0];
+
+    expect(button.className).toEqual("button outlined");
+  });
+
+  it("choose the 'outlined' style if not filled", async () => {
+    const { getByText, container } = render(<Button />);
+    const button = container.getElementsByClassName("button")[0];
+
+    expect(button.className).toEqual("button outlined");
+  });
+
+  it("choose the 'filled' style", async () => {
+    const { getByText, container } = render(<Button variant="filled" />);
+    const button = container.getElementsByClassName("button")[0];
+
+    expect(button.className).toEqual("button filled");
+  });
+
+  it("choose the 'text' style", async () => {
+    const { getByText, container } = render(<Button variant="text" />);
+    const button = container.getElementsByClassName("button")[0];
+
+    expect(button.className).toEqual("button text");
+  });
+});
+
+describe("Button navigation", () => {
+  it(`when clicked, change the route in vue-router`, async () => {
+    const { container } = render(<Button />, {
+      rounter: {},
+    });
+    const button = container.getElementsByClassName("button")[0];
+
+    await fireEvent.click(button);
+  });
+});

@@ -43,6 +43,15 @@ https://stackoverflow.com/questions/34711237/set-css-transition-to-use-speed-ins
 
 # TODO
 
+- integrate the legacy code
+- clean FIXME file
+- normalize reset css
+- normalize my palet
+- design mobile general template
+- authenticate to spotify
+- list playlists
+- play a song
+
 - design "select" view
 - design "playback" view
 - design "popup playback" view
@@ -70,3 +79,29 @@ https://stackoverflow.com/questions/34711237/set-css-transition-to-use-speed-ins
 
 - format/lint code
 - remove all local or github repositories related to Spotify
+
+## Demo
+
+https://spotify-vuejs.netlify.app/
+
+## Env variables to fill (.env)
+VUE_APP_SPOTIFY_CLIENT_ID=<your client id>
+VUE_APP_SPOTIFY_CLIENT_SECRET=<your client secret>
+VUE_APP_SPOTIFY_REDIRECT_URI="https://your-deployed-url/spotify-api/"
+VUE_APP_SPOTIFY_SCOPES=user-read-private user-read-email user-library-read playlist-read-private
+
+## Spotify flow
+
+1/ GET /authorize
+=> authorization code
+2/ GET /token
+=> access token + refresh token
+3/ GET /me
+=> user id (useful for getting my playlists)
+
+## help
+scroll end
+https://stackoverflow.com/questions/3962558/javascript-detect-scroll-end
+
+bootstrap icons
+https://icons.getbootstrap.com/

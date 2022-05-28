@@ -1,12 +1,38 @@
 <script>
   import logo from "./assets/svelte.png";
-  import Counter from "./lib/Counter.svelte";
+  import CounterKit from "./componentsFIXME/CounterKit.svelte";
+  import Counter from "./componentsFIXME/Counter.svelte";
+
+  // import SettingsPanel from "./components/SettingsPanel.vue";
+  // import Navigation from "./components/Navigation.vue";
+  // import Player from "./components/Player.vue";
+  // import SettingsBtn from "./components/SettingsBtn.vue";
+  // import Screen from "./components/Screen.vue";
+  // import RoutePath from "./utils/RoutePath";
+
+  // const connectedTODO = false;
 </script>
 
-<main>
-  <h1>Spotify</h1>
-  <!-- <img src={logo} alt="Svelte Logo" /> -->
-</main>
+<!-- <div class="app"> -->
+  <main>
+    <!-- FIXME -->
+    <!-- <Screen>
+      <router-view></router-view>
+    </Screen> -->
+    <!-- FIXME -->
+     <!--div-- v-if="connected">
+      <Player />
+      <Navigation />
+      <router-link :to="RoutePath.PARAMS"><SettingsBtn /></router-link>
+      <SettingsPanel />
+    </div-->
+    <h1>Spotify</h1>
+    <p>SOURIYA que faire ?</p>
+    <CounterKit />
+    <Counter />
+    <!-- <img src={logo} alt="Svelte Logo" /> -->
+  </main>
+<!-- </div> -->
 
 <style>
   /* FIXME */
@@ -24,16 +50,13 @@
     font-family: "spotify-circular-light";
     src: url("/fonts/spotify-circular-light.woff2");
   }
-  /* FIXME */
-  @font-face {
-    font-family: "fruktur";
-    src: url("/fonts/frukturPUBLIC.ttf");
-  }
+
   :root {
     /* FONT */
     --font-family: "spotify-circular";
     --font-size-content: 1.6rem;
     --font-size-button: 1.4rem;
+
     /* COLOR */
     --color-background: #121212;
     /* --color-background-3: #181818; */
@@ -42,10 +65,15 @@
     --color-button-active: #282828;
     --color-button-outlined: #363636;
     --color-action: #1db954;
+
+    /* HEIGHT */
+    --player-height: 9.1rem;
+
     /* Z-INDEX */
     --z-index-base: 0;
     --z-index-popup: 1;
     --z-index-max: 2;
+
     /* SPOTIFT FIXME */
     --background-base: #121212;
     --background-highlight: #1a1a1a;
@@ -76,7 +104,8 @@
     --decorative-base: #fff;
     --decorative-subdued: #292929;
   }
-  html {
+
+  :global(html) {
     font-size: 62.5%;
     word-spacing: 0.1rem;
     -ms-text-size-adjust: 100%;
@@ -85,20 +114,24 @@
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
   }
-  *,
-  *:before,
-  *:after {
+
+  :global(*),
+  :global(*:before),
+  :global(*:after) {
     box-sizing: border-box;
     margin: 0;
   }
-  body {
+
+  :global(body) {
     font-family: var(--font-family);
     font-size: var(--font-size-content);
   }
+
   /* FIXME */
-  h1 {
+  :global(h1) {
     font-family: "spotify-circular-bold";
   }
+
   .app {
     /* FIXME */
     /* display: grid;
