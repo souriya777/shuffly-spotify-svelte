@@ -47,12 +47,15 @@ https://stackoverflow.com/questions/34711237/set-css-transition-to-use-speed-ins
 
 # TODO
 
-- design mobile general template
-- clean FIXME file
-- authenticate to spotify
-- list playlists
-- play a song
+## tools
+- deploy to netlify
+- absolute import path as SvelteKit
+- add routing (back button)
+- add stores
+- install linter
 
+## design
+- design mobile general template (menu, player, browser)
 - design "select" view
 - design "playback" view
 - design "popup playback" view
@@ -61,7 +64,15 @@ https://stackoverflow.com/questions/34711237/set-css-transition-to-use-speed-ins
 - design "parameter" panel
 - add test to Component
 
+## spotify api
+- install lib or not to make api call ?
 - authenticate to spotify API
+- unit test
+- list playlists
+- play a song
+- play a playlist
+
+## dynamize views
 - dynamize "log in" view
 - dynamize "select" view
 - dynamize "playback" view
@@ -69,17 +80,14 @@ https://stackoverflow.com/questions/34711237/set-css-transition-to-use-speed-ins
 - dynamize "shuffle" view
 - dynamize "queue" view
 - dynamize "parameter" panel
-- list playlists
-- play a song
-- play a playlist
 
+## refactor
 - persist data ?
-
+- clean FIXME file
 - test on android
-- feedback by one user
 
-- format/lint code
-- remove all local or github repositories related to Spotify
+## feedback
+- feedback by one user
 
 ## Demo
 

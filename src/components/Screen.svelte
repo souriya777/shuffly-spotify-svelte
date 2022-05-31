@@ -1,6 +1,6 @@
 <script>
-  import { back } from '$stores/stores';
-  import { superFlyLeft, superFlyRight } from '$utils/transitionSuperFly';
+  import { back } from '../stores/stores';
+  import { superFlyLeft, superFlyRight } from '../utils/transitionSuperFly';
 
   export let refresh = '';
 

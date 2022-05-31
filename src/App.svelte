@@ -1,38 +1,34 @@
 <script>
   import logo from "./assets/svelte.png";
-  import CounterKit from "./componentsFIXME/CounterKit.svelte";
-  import Counter from "./componentsFIXME/Counter.svelte";
+  import CounterKit from "./components/CounterKit.svelte";
+  import Counter from "./components/Counter.svelte";
 
   // import SettingsPanel from "./components/SettingsPanel.vue";
   // import Navigation from "./components/Navigation.vue";
   // import Player from "./components/Player.vue";
   // import SettingsBtn from "./components/SettingsBtn.vue";
-  // import Screen from "./components/Screen.vue";
+  import Screen from "./components/Screen.svelte";
   // import RoutePath from "./utils/RoutePath";
 
   // const connectedTODO = false;
 </script>
 
-<!-- <div class="app"> -->
-  <main>
-    <!-- FIXME -->
-    <!-- <Screen>
-      <router-view></router-view>
-    </Screen> -->
-    <!-- FIXME -->
-     <!--div-- v-if="connected">
-      <Player />
-      <Navigation />
-      <router-link :to="RoutePath.PARAMS"><SettingsBtn /></router-link>
-      <SettingsPanel />
-    </div-->
+<main>
+  <!-- FIXME -->
+  <Screen>
+    <!-- <router-view></router-view> -->
     <h1>Spotify</h1>
-    <p>SOURIYA que faire ?</p>
-    <CounterKit />
-    <Counter />
-    <!-- <img src={logo} alt="Svelte Logo" /> -->
-  </main>
-<!-- </div> -->
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore numquam rem itaque nam, voluptatibus quaerat enim magnam veritatis laborum id delectus labore velit consectetur voluptatum eos expedita! Ut, quis saepe?</p>
+  </Screen>
+  <!-- FIXME -->
+    <!--div-- v-if="connected">
+    <Player />
+    <Navigation />
+    <router-link :to="RoutePath.PARAMS"><SettingsBtn /></router-link>
+    <SettingsPanel />
+  </div-->
+  <!-- <img src={logo} alt="Svelte Logo" /> -->
+</main>
 
 <style>
   /* FIXME */
@@ -40,7 +36,6 @@
     font-family: "spotify-circular";
     src: url("/fonts/spotify-circular-regular.woff2");
   }
-  /* FIXME */
   @font-face {
     font-family: "spotify-circular-bold";
     src: url("/fonts/spotify-circular-bold.woff2");
@@ -54,6 +49,7 @@
   :root {
     /* FONT */
     --font-family: "spotify-circular";
+    --font-family-bold: "spotify-circular-bold";
     --font-size-content: 1.6rem;
     --font-size-button: 1.4rem;
 
@@ -122,17 +118,20 @@
     margin: 0;
   }
 
-  :global(body) {
+  main {
+    height: 100vh;
+    background-color: lightgray;
     font-family: var(--font-family);
     font-size: var(--font-size-content);
   }
-
+  
   /* FIXME */
   :global(h1) {
-    font-family: "spotify-circular-bold";
+    font-family: var(--font-family-bold);
   }
-
+  
   .app {
+    background-color: pink;
     /* FIXME */
     /* display: grid;
     grid-template-areas:
