@@ -15,6 +15,10 @@ Vite : I was impressed when Evan You (creator of Vue.js) has demonstrated this n
 
 CSS : I use native CSS instead of pre-processors (e.g. sass, stylus...)
 
+# My stack
+
+modern-normalize : normalize.css like, but smaller, only target latest browser, improvements
+
 # Best practices
 
 Organize CSS properties :
@@ -43,11 +47,8 @@ https://stackoverflow.com/questions/34711237/set-css-transition-to-use-speed-ins
 
 # TODO
 
-- integrate the legacy code
-- clean FIXME file
-- normalize reset css
-- normalize my palet
 - design mobile general template
+- clean FIXME file
 - authenticate to spotify
 - list playlists
 - play a song
