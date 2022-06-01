@@ -1,13 +1,13 @@
 <script>
-  import logo from "./assets/svelte.png";
-  import CounterKit from "./components/CounterKit.svelte";
-  import Counter from "./components/Counter.svelte";
+  import logo from "~/assets/svelte.png";
+  import CounterKit from "~/components/CounterKit.svelte";
+  import Counter from "~/components/Counter.svelte";
 
   // import SettingsPanel from "./components/SettingsPanel.vue";
   // import Navigation from "./components/Navigation.vue";
   // import Player from "./components/Player.vue";
   // import SettingsBtn from "./components/SettingsBtn.vue";
-  import Screen from "./components/Screen.svelte";
+  import Screen from "~/components/Screen.svelte";
   // import RoutePath from "./utils/RoutePath";
 
   // const connectedTODO = false;
@@ -18,16 +18,22 @@
   <Screen>
     <!-- <router-view></router-view> -->
     <h1>Spotify</h1>
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore numquam rem itaque nam, voluptatibus quaerat enim magnam veritatis laborum id delectus labore velit consectetur voluptatum eos expedita! Ut, quis saepe?</p>
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore numquam
+      rem itaque nam, voluptatibus quaerat enim magnam veritatis laborum id
+      delectus labore velit consectetur voluptatum eos expedita! Ut, quis saepe?
+    </p>
+    <CounterKit />
+    <Counter />
+    <img src={logo} alt="Svelte Logo" />
   </Screen>
   <!-- FIXME -->
-    <!--div-- v-if="connected">
+  <!--div-- v-if="connected">
     <Player />
     <Navigation />
     <router-link :to="RoutePath.PARAMS"><SettingsBtn /></router-link>
     <SettingsPanel />
   </div-->
-  <!-- <img src={logo} alt="Svelte Logo" /> -->
 </main>
 
 <style>
@@ -124,12 +130,12 @@
     font-family: var(--font-family);
     font-size: var(--font-size-content);
   }
-  
+
   /* FIXME */
   :global(h1) {
     font-family: var(--font-family-bold);
   }
-  
+
   .app {
     background-color: pink;
     /* FIXME */

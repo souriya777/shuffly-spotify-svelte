@@ -1,3 +1,52 @@
+# TODO
+
+## tools
+
+- 👊 install eslint
+- install linter
+- add routing (back button)
+- add stores
+
+## design
+
+- design mobile general template (menu, player, browser)
+- design "select" view
+- design "playback" view
+- design "popup playback" view
+- design "shuffle" view
+- design "queue" view
+- design "parameter" panel
+- add test to Component
+
+## spotify api
+
+- install lib or not to make api call ?
+- authenticate to spotify API
+- unit test
+- list playlists
+- play a song
+- play a playlist
+
+## dynamize views
+
+- dynamize "log in" view
+- dynamize "select" view
+- dynamize "playback" view
+- dynamize "popup playback" view
+- dynamize "shuffle" view
+- dynamize "queue" view
+- dynamize "parameter" panel
+
+## refactor
+
+- persist data ?
+- clean FIXME file
+- test on android
+
+## feedback
+
+- feedback by one user
+
 # The Project
 
 Shuffle among your Spotify's playlist with accuracy.
@@ -26,6 +75,10 @@ Organize CSS properties :
 https://medium.com/swlh/better-ways-to-organise-css-properties-9a066e7ded62
 ![summary](https://miro.medium.com/max/1400/1*RYMDPwcVjiZDbOJy4hfYmw.png)
 
+Absolute path Vite + Svelte
+
+https://stackoverflow.com/questions/70648181/how-to-resolve-absolute-path-using-vite-and-eslint-in-svelte
+
 Hack 100vh viewport on iOS :
 
 https://stackoverflow.com/a/54690380/4895079
@@ -45,55 +98,12 @@ Fixed speed of a CSS animation duration :
 
 https://stackoverflow.com/questions/34711237/set-css-transition-to-use-speed-instead-of-duration
 
-# TODO
-
-## tools
-- deploy to netlify
-- absolute import path as SvelteKit
-- add routing (back button)
-- add stores
-- install linter
-
-## design
-- design mobile general template (menu, player, browser)
-- design "select" view
-- design "playback" view
-- design "popup playback" view
-- design "shuffle" view
-- design "queue" view
-- design "parameter" panel
-- add test to Component
-
-## spotify api
-- install lib or not to make api call ?
-- authenticate to spotify API
-- unit test
-- list playlists
-- play a song
-- play a playlist
-
-## dynamize views
-- dynamize "log in" view
-- dynamize "select" view
-- dynamize "playback" view
-- dynamize "popup playback" view
-- dynamize "shuffle" view
-- dynamize "queue" view
-- dynamize "parameter" panel
-
-## refactor
-- persist data ?
-- clean FIXME file
-- test on android
-
-## feedback
-- feedback by one user
-
 ## Demo
 
-https://spotify-vuejs.netlify.app/
+https://shuffle-spotify-svelte.netlify.app/
 
 ## Env variables to fill (.env)
+
 VUE_APP_SPOTIFY_CLIENT_ID=<your client id>
 VUE_APP_SPOTIFY_CLIENT_SECRET=<your client secret>
 VUE_APP_SPOTIFY_REDIRECT_URI="https://your-deployed-url/spotify-api/"
@@ -109,6 +119,7 @@ VUE_APP_SPOTIFY_SCOPES=user-read-private user-read-email user-library-read playl
 => user id (useful for getting my playlists)
 
 ## help
+
 scroll end
 https://stackoverflow.com/questions/3962558/javascript-detect-scroll-end
 
