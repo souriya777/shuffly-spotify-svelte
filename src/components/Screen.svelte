@@ -40,6 +40,7 @@
     color: var(--color-text);
     overflow: hidden;
   }
+  /* FIXME TRANSITION */
   :global(.screen .transitionElt) {
     grid-area: 1/1/2/2;
   }
