@@ -1,13 +1,13 @@
 <script>
-  import logo from "~/assets/svelte.png";
-  import CounterKit from "~/components/CounterKit.svelte";
-  import Counter from "~/components/Counter.svelte";
+  import logo from '~/assets/svelte.png';
+  import CounterKit from '~/components/CounterKit.svelte';
+  import Counter from '~/components/Counter.svelte';
 
   // import SettingsPanel from "./components/SettingsPanel.vue";
   // import Navigation from "./components/Navigation.vue";
   // import Player from "./components/Player.vue";
   // import SettingsBtn from "./components/SettingsBtn.vue";
-  import Screen from "~/components/Screen.svelte";
+  import Screen from '~/components/Screen.svelte';
   // import RoutePath from "./utils/RoutePath";
 
   // const connectedTODO = false;
@@ -39,23 +39,23 @@
 <style>
   /* FIXME */
   @font-face {
-    font-family: "spotify-circular";
-    src: url("/fonts/spotify-circular-regular.woff2");
+    font-family: 'spotify-circular';
+    src: url('/fonts/spotify-circular-regular.woff2');
   }
   @font-face {
-    font-family: "spotify-circular-bold";
-    src: url("/fonts/spotify-circular-bold.woff2");
+    font-family: 'spotify-circular-bold';
+    src: url('/fonts/spotify-circular-bold.woff2');
   }
   /* FIXME */
   @font-face {
-    font-family: "spotify-circular-light";
-    src: url("/fonts/spotify-circular-light.woff2");
+    font-family: 'spotify-circular-light';
+    src: url('/fonts/spotify-circular-light.woff2');
   }
 
   :root {
     /* FONT */
-    --font-family: "spotify-circular";
-    --font-family-bold: "spotify-circular-bold";
+    --font-family: 'spotify-circular';
+    --font-family-bold: 'spotify-circular-bold';
     --font-size-content: 1.6rem;
     --font-size-button: 1.4rem;
 

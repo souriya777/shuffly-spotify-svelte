@@ -1,30 +1,30 @@
-import { createRouter, createWebHistory } from "vue-router";
-import RoutePath from "./utils/RoutePath";
+import { createRouter, createWebHistory } from 'vue-router';
+import RoutePath from './utils/RoutePath';
 
 const routes = [
   {
-    path: "/",
-    component: () => import("./views/LoginSelectionView.vue"),
+    path: '/',
+    component: () => import('./views/LoginSelectionView.vue'),
   },
   {
-    path: "/login",
-    component: () => import("./views/LoginView.vue"),
+    path: '/login',
+    component: () => import('./views/LoginView.vue'),
   },
   {
     path: RoutePath.SELECT,
-    component: () => import("./views/SelectView.vue"),
+    component: () => import('./views/SelectView.vue'),
   },
   {
     path: RoutePath.SHUFFLE,
-    component: () => import("./views/ShuffleView.vue"),
+    component: () => import('./views/ShuffleView.vue'),
   },
   {
     path: RoutePath.QUEUE,
-    component: () => import("./views/QueueView.vue"),
+    component: () => import('./views/QueueView.vue'),
   },
   {
     path: RoutePath.PARAMS,
-    component: () => import("./views/ParamsView.vue"),
+    component: () => import('./views/ParamsView.vue'),
   },
 ];
 

@@ -1,16 +1,14 @@
 <script context="module">
-  export const load = async ({ page }) => {
-    return {
-      props: {
-        key: page.path
-      }
-    };
-  };
+  export const load = async ({ page }) => ({
+    props: {
+      key: page.path,
+    },
+  });
 </script>
 
 <script>
-  import Screen from '$lib/Screen.svelte';
-  import BackButton from '$lib/BackButton.svelte';
+  import Screen from '~/components/Screen.svelte';
+  import BackButton from '~/components/BackButton.svelte';
 
   export let key;
 </script>

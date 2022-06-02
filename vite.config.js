@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite'
-import { svelte } from '@sveltejs/vite-plugin-svelte'
+import { defineConfig } from 'vite';
+import { svelte } from '@sveltejs/vite-plugin-svelte';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 
@@ -14,4 +14,4 @@ export default defineConfig({
       '~': path.resolve(dirname, 'src'),
     },
   },
-})
+});

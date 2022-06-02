@@ -13,9 +13,13 @@
   <div class="info">
     <PlayerTitle {title} {artists} />
     <div class="device">
-      <Icon name="listened" width="12" height="12" viewBoxWidth="16" viewBoxHeight="16" /><span
-        >{device}</span
-      >
+      <Icon
+        name="listened"
+        width="12"
+        height="12"
+        viewBoxWidth="16"
+        viewBoxHeight="16"
+      /><span>{device}</span>
     </div>
   </div>
   <div class="icon">

@@ -1,0 +1,41 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "plugins": [
+      "svelte3"
+    ],
+    "extends": [
+        "airbnb-base", "prettier"
+    ],
+    "overrides": [
+      {
+        "files": [
+          "**/*.svelte"
+        ],
+        "rules": {
+          // see https://github.com/sveltejs/eslint-plugin-svelte3/blob/master/OTHER_PLUGINS.md
+          "import/first": "off",
+          "import/no-duplicates": "off",
+          "import/no-mutable-exports": "off",
+          "import/no-unresolved": "off",
+          "import/prefer-default-export": "off"
+        },
+        "processor": "svelte3/svelte3"
+      }
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "rules": {
+      // for vite
+      "import/no-extraneous-dependencies": [
+        "error",
+        {
+          "devDependencies": true
+        }
+      ]
+    }
+}

@@ -11,12 +11,19 @@
 
 <div class="login-selection-view">
   <div class="top">
-    <Icon name="spotify" height="32" width="32" viewBoxWidth="496" viewBoxHeight="512" />
+    <Icon
+      name="spotify"
+      height="32"
+      width="32"
+      viewBoxWidth="496"
+      viewBoxHeight="512"
+    />
     <div class="marketing">Millions of songs.<br />Free on Spotify.</div>
   </div>
   <div class="bottom">
     <div class="button">
-      <Button variant={ButtonStyle.OUTLINED} to={RoutePath.LOGIN}>log in</Button>
+      <Button variant={ButtonStyle.OUTLINED} to={RoutePath.LOGIN}>log in</Button
+      >
     </div>
   </div>
 </div>

@@ -2,8 +2,8 @@
 
 ## tools
 
-- 👊 install eslint
-- install linter
+- 👊 configure eslint/prettier for svelte
+- install husky, lint-staged
 - add routing (back button)
 - add stores
 
@@ -78,6 +78,24 @@ https://medium.com/swlh/better-ways-to-organise-css-properties-9a066e7ded62
 Absolute path Vite + Svelte
 
 https://stackoverflow.com/questions/70648181/how-to-resolve-absolute-path-using-vite-and-eslint-in-svelte
+
+good debate on standardjs vs eslint
+
+https://www.reddit.com/r/javascript/comments/joqw5b/askjs_standard_is_a_bad_idea/
+
+4 fantastic tools : eslint, prettier, husky, lint-staged
+
+https://www.reddit.com/r/javascript/comments/joqw5b/askjs_standard_is_a_bad_idea/
+
+configure eslint + prettier + airbnb
+
+https://eslint.org/docs/user-guide/getting-started
+
+https://thomaslenaour.com/posts/configurer-eslint-prettier-airbnb-pour-vos-projets-javascript
+
+eslint-plugin-svelte3 special conflicts
+
+https://github.com/sveltejs/eslint-plugin-svelte3/blob/master/OTHER_PLUGINS.md
 
 Hack 100vh viewport on iOS :
 

@@ -1,12 +1,12 @@
 <script>
-  import Button from '$lib/Button.svelte';
-  import InputPassword from '$lib/InputPassword.svelte';
-  import InputText from '$lib/InputText.svelte';
-  import TopBar from '$lib/TopBar.svelte';
-  import ButtonStyle from '$utils/ButtonStyle';
-  import RoutePath from '$utils/RoutePath';
+  import Button from '~/components/Button.svelte';
+  import InputPassword from '~/components/InputPassword.svelte';
+  import InputText from '~/components/InputText.svelte';
+  import TopBar from '~/components/TopBar.svelte';
+  import ButtonStyle from '~/utils/ButtonStyle';
+  import RoutePath from '~/utils/RoutePath';
 
-  let submitDeactivated = true;
+  const submitDeactivated = true;
 </script>
 
 <svelte:head>
@@ -24,11 +24,15 @@
     <div class="form-field">
       <label for="password">Password</label>
       <InputPassword id="password" />
-      <div class="error-info">This email and password combination is incorect.</div>
+      <div class="error-info">
+        This email and password combination is incorect.
+      </div>
     </div>
     <div class="submit">
-      <Button variant={ButtonStyle.FILLED} to={RoutePath.SELECT} deactivated={submitDeactivated}
-        >Log In</Button
+      <Button
+        variant={ButtonStyle.FILLED}
+        to={RoutePath.SELECT}
+        deactivated={submitDeactivated}>Log In</Button
       >
     </div>
   </form>

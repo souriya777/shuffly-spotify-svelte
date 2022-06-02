@@ -5,9 +5,11 @@
 </script>
 
 <script>
-  import { onMount } from 'svelte';
-  
-  export let title, artists;
+  let ANIMATION_DELAY_MS;
+  let fullTitle;
+
+  export let title;
+  export let artists;
 
   $: fullTitle = `${title} • ${artists}`;
   let clientWidth;
@@ -48,11 +50,15 @@
   <div class="slider" bind:clientWidth>
     {#if visible}
       <div class="title" transition:slideTitle>
-        <span class="white">{title} &bull; </span><span class="grey">{artists}</span>
+        <span class="white">{title} &bull; </span><span class="grey"
+          >{artists}</span
+        >
       </div>
     {:else}
       <div class="title">
-        <span class="white">{title} &bull; </span><span class="grey">{artists}</span>
+        <span class="white">{title} &bull; </span><span class="grey"
+          >{artists}</span
+        >
       </div>
     {/if}
   </div>

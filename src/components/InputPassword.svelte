@@ -1,6 +1,7 @@
 <script>
-  import InputText from '$lib/InputText.svelte';
+  import InputText from '~/components/InputText.svelte';
   import Icon from './Icon.svelte';
+
   export let id;
   export let error = false;
 

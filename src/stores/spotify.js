@@ -8,7 +8,7 @@ import {
   play,
   pause,
   seekToPosition,
-} from "@/services/spotify-api-services";
+} from '@/services/spotify-api-services';
 
 // initial state
 const state = {
@@ -28,7 +28,7 @@ const state = {
 const actions = {
   async play({ state, dispatch }) {
     const { queueCursor, queueUris } = state;
-    dispatch("playTrack", {
+    dispatch('playTrack', {
       trackUri: queueUris[queueCursor],
     });
   },
@@ -40,7 +40,7 @@ const actions = {
 
     // ... and load it
     const trackInfos = await getTrack(accessToken, trackUri);
-    commit("updateCurrentTrack", trackInfos);
+    commit('updateCurrentTrack', trackInfos);
   },
   async playTrackList({ dispatch, commit }, albumOrPlaylist) {
     // get 1st song
@@ -48,66 +48,66 @@ const actions = {
     const trackUri = trackUris?.[0];
 
     // play it
-    dispatch("playTrack", { trackUri });
+    dispatch('playTrack', { trackUri });
 
     // add tracks to current playlist
-    commit("setQueueUris", trackUris);
+    commit('setQueueUris', trackUris);
   },
   async playLastTrack({ state, dispatch, commit }) {
     const { accessToken } = state;
 
     // retrieve last track
     const track = await getLastPlayedTrack(accessToken);
-    const trackUri = track.trackUri;
+    const { trackUri } = track;
 
     // play it
-    dispatch("playTrack", { trackUri });
+    dispatch('playTrack', { trackUri });
 
     // retrieve associated album's tracks
     const tracksUris = await getAlbumTracks(accessToken, track.albumUri);
 
     // add to current queue
-    commit("setQueueUris", tracksUris);
+    commit('setQueueUris', tracksUris);
   },
   async playAlbum({ dispatch }, { album }) {
-    dispatch("playTrackList", album);
+    dispatch('playTrackList', album);
   },
   async playPlaylist({ state: { accessToken }, dispatch }, { playlist }) {
     const tracklist = await getPlaylistTracks(accessToken, playlist.id);
 
     const playlistWithTracks = { ...playlist, trackUris: tracklist };
 
-    dispatch("playTrackList", playlistWithTracks);
+    dispatch('playTrackList', playlistWithTracks);
   },
   async next({ state, dispatch, commit }) {
     const { queueCursor } = state;
-    commit("forwardQueueCursor");
+    commit('forwardQueueCursor');
     if (queueCursor !== state.queueCursor) {
-      dispatch("play");
+      dispatch('play');
     } else {
       pause(state.accessToken);
     }
   },
   async previous({ state, dispatch, commit }) {
     const { queueCursor } = state;
-    commit("backwardQueueCursor");
+    commit('backwardQueueCursor');
     if (queueCursor !== state.queueCursor) {
-      dispatch("play");
+      dispatch('play');
     } else {
       seekToPosition(state.accessToken, 0);
     }
   },
   async loadAlbums({ state, commit }, offset) {
     const albums = await getMyAlbums(state.accessToken, offset);
-    commit("updateAlbums", albums);
+    commit('updateAlbums', albums);
   },
   async loadPlaylists({ state, commit }, offset) {
     const playlists = await getMyPlaylists(
       state.accessToken,
       state.userId,
-      offset
+      offset,
     );
-    commit("updatePlaylists", playlists);
+    commit('updatePlaylists', playlists);
   },
 };
 

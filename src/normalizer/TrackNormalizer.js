@@ -1,4 +1,4 @@
-import TrackDto from '@/dto/TrackDto'
+import TrackDto from '@/dto/TrackDto';
 
 class TrackNormalizer {
   normalize(spotifyTrack) {
@@ -6,13 +6,13 @@ class TrackNormalizer {
       id: spotifyTrack.id,
       name: spotifyTrack.name,
       artists: spotifyTrack.artists.map(
-        ({ name, external_urls: { spotify: href } }) => ({ name, href })
+        ({ name, external_urls: { spotify: href } }) => ({ name, href }),
       ),
       imageUrl: spotifyTrack.album.images?.[1]?.url, // 300x300
       trackUri: spotifyTrack?.uri,
-      albumUri: spotifyTrack?.album?.uri
-    })
+      albumUri: spotifyTrack?.album?.uri,
+    });
   }
 }
 
-export default new TrackNormalizer()
+export default new TrackNormalizer();

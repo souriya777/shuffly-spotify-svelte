@@ -1,4 +1,4 @@
-import AlbumDto from '@/dto/AlbumDto'
+import AlbumDto from '@/dto/AlbumDto';
 
 class AlbumNormalizer {
   normalize(spotifyAlbum) {
@@ -6,12 +6,12 @@ class AlbumNormalizer {
       id: spotifyAlbum.id,
       name: spotifyAlbum.name,
       artists: spotifyAlbum.artists.map(
-        ({ name, external_urls: { spotify: href } }) => ({ name, href })
+        ({ name, external_urls: { spotify: href } }) => ({ name, href }),
       ),
       imageUrl: spotifyAlbum.images?.[1]?.url, // 300x300
-      trackUris: spotifyAlbum.tracks.items.map(({ uri }) => uri)
-    })
+      trackUris: spotifyAlbum.tracks.items.map(({ uri }) => uri),
+    });
   }
 }
 
-export default new AlbumNormalizer()
+export default new AlbumNormalizer();

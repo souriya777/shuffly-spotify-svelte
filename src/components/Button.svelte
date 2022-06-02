@@ -6,7 +6,9 @@
   $: buttonClass = `${variant}`;
 </script>
 
-<a class={buttonClass} class:deactivated href={to} sveltekit:prefetch><slot /></a>
+<a class={buttonClass} class:deactivated href={to} sveltekit:prefetch
+  ><slot /></a
+>
 
 <style>
   a {

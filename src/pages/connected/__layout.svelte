@@ -1,17 +1,16 @@
 <script context="module">
   // FIXME mutualize with other __layout.svelte?
-  export const load = async ({ page }) => {
-    return {
-      props: {
-        key: page.path.replace('/connected/', '')
-      }
-    };
-  };
+  export const load = async ({ page }) => ({
+    props: {
+      key: page.path.replace('/connected/', ''),
+    },
+  });
 </script>
 
 <script>
-  import Player from '$lib/Player.svelte';
-  import Menu from '$lib/Menu.svelte';
+  import Player from '~/components/Player.svelte';
+  import Menu from '~/components/Menu.svelte';
+
   export let key;
 </script>
 
