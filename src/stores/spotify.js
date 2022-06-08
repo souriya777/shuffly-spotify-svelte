@@ -8,10 +8,9 @@ import {
   play,
   pause,
   seekToPosition,
-} from '@/services/spotify-api-services';
+} from '~/services/spotify-api-services';
 
-// initial state
-const state = {
+const INITIAL_STATE = {
   authorizationCode: null,
   accessToken: null,
   refreshToken: null,
@@ -163,7 +162,7 @@ const mutations = {
 };
 
 export default {
-  state,
+  INITIAL_STATE,
   actions,
   mutations,
 };

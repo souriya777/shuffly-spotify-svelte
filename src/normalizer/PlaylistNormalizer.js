@@ -1,4 +1,4 @@
-import PlaylistDto from '@/dto/PlaylistDto';
+import PlaylistDto from '~/dto/PlaylistDto';
 
 class PlaylistNormalizer {
   normalize(spotifyPlaylist) {

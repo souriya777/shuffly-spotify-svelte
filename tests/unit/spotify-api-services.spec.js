@@ -9,8 +9,8 @@ import {
   getPlaylistTracks,
   getAlbumTracks,
   startOrResume,
-} from '@/services/spotify-api-services';
-import TrackDto from '@/dto/TrackDto';
+} from '../../src/services/spotify-api-services';
+import TrackDto from '../../src/dto/TrackDto';
 
 jest.mock('axios');
 

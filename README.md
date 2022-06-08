@@ -2,9 +2,7 @@
 
 ## tools
 
-- 👊 configure eslint/prettier for svelte
-- install husky, lint-staged
-- add routing (back button)
+- 👊 add routing (back button)
 - add stores
 
 ## design
@@ -39,6 +37,8 @@
 
 ## refactor
 
+- install husky, lint-staged
+- resolve eslint errors
 - persist data ?
 - clean FIXME file
 - test on android

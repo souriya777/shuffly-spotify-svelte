@@ -18,8 +18,9 @@ export function superFly(
       if (out) return `transform: translateX(${translateXOut(t, x)}px);`;
 
       return `
-      transform: ${transform} translate(${translateXIn(x, easeMotion)}px, ${(1 - easeMotion) * y
-        }px);
+      transform: ${transform} translate(${translateXIn(x, easeMotion)}px, ${
+        (1 - easeMotion) * y
+      }px);
       background-color: var(--color-background);`;
     },
   };

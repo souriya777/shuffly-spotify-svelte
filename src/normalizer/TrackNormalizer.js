@@ -1,4 +1,4 @@
-import TrackDto from '@/dto/TrackDto';
+import TrackDto from '~/dto/TrackDto';
 
 class TrackNormalizer {
   normalize(spotifyTrack) {

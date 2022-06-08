@@ -10,10 +10,10 @@
   </div>
 </template>
 <script>
-import VolumeMuteIcon from '@/components/icons/VolumeMuteIcon'
-import VolumeOffIcon from '@/components/icons/VolumeOffIcon'
-import VolumeDownIcon from '@/components/icons/VolumeDownIcon'
-import VolumeUpIcon from '@/components/icons/VolumeUpIcon'
+import VolumeMuteIcon from '~/components/icons/VolumeMuteIcon'
+import VolumeOffIcon from '~/components/icons/VolumeOffIcon'
+import VolumeDownIcon from '~/components/icons/VolumeDownIcon'
+import VolumeUpIcon from '~/components/icons/VolumeUpIcon'
 export default {
   components: { VolumeMuteIcon, VolumeOffIcon, VolumeDownIcon, VolumeUpIcon }
 }

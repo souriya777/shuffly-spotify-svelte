@@ -1,4 +1,4 @@
-import AlbumDto from '@/dto/AlbumDto';
+import AlbumDto from '~/dto/AlbumDto';
 
 class AlbumNormalizer {
   normalize(spotifyAlbum) {

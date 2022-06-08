@@ -1,9 +1,9 @@
 import querystring from 'querystring';
 import axios from 'axios';
-import { AXIOS_INSTANCE } from '@/services/axios-services';
-import TrackNormalizer from '@/normalizer/TrackNormalizer';
-import AlbumNormalizer from '@/normalizer/AlbumNormalizer';
-import PlaylistNormalizer from '@/normalizer/PlaylistNormalizer';
+import { AXIOS_INSTANCE } from '~/services/axios-services';
+import TrackNormalizer from '~/normalizer/TrackNormalizer';
+import AlbumNormalizer from '~/normalizer/AlbumNormalizer';
+import PlaylistNormalizer from '~/normalizer/PlaylistNormalizer';
 
 // FIXME
 const SPOTIFY_API_URL = 'https://api.spotify.com/v1';
