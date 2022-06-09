@@ -2,7 +2,6 @@
 
 ## tools
 
-- 👊 add routing (back button)
 - add stores
 
 ## design
@@ -104,6 +103,16 @@ https://stackoverflow.com/a/54690380/4895079
 Best way to import SVG icons into a Svelte app
 
 https://stackoverflow.com/questions/66069647/best-way-to-import-svg-icons-into-a-svelte-app
+
+Why I prefer axios over fetch :
+
+https://blog.logrocket.com/axios-vs-fetch-best-http-requests/#:~:text=To%20send%20data%2C%20fetch(),stringify%20method
+
+https://stackoverflow.com/questions/40844297/what-is-difference-between-axios-and-fetch
+
+A declarative Svelte routing library with SSR support :
+
+https://github.com/EmilTholin/svelte-routing
 
 Page transition in SvelteKit
 https://dev.to/evanwinter/page-transitions-with-svelte-kit-35o6

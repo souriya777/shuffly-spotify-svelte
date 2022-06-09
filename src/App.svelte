@@ -1,8 +1,11 @@
 <script>
+  import { Router, Link, Route } from 'svelte-routing';
   import logo from '~/assets/svelte.png';
   import CounterKit from '~/components/CounterKit.svelte';
   import Counter from '~/components/Counter.svelte';
 
+  import Page1 from './pages/Page1.svelte';
+  import Page2 from './pages/Page2.svelte';
   // import SettingsPanel from "./components/SettingsPanel.vue";
   // import Navigation from "./components/Navigation.vue";
   // import Player from "./components/Player.vue";
@@ -11,6 +14,8 @@
   // import RoutePath from "./utils/RoutePath";
 
   // const connectedTODO = false;
+
+  export let url = '';
 </script>
 
 <main>
@@ -23,6 +28,18 @@
       rem itaque nam, voluptatibus quaerat enim magnam veritatis laborum id
       delectus labore velit consectetur voluptatum eos expedita! Ut, quis saepe?
     </p>
+    <Router {url}>
+      <nav>
+        <Link to="/">Home</Link>
+        <Link to="page1">Page1</Link>
+        <Link to="page2">Page2</Link>
+      </nav>
+      <div>
+        <Route path="page1" component={Page1} />
+        <Route path="page2" component={Page2} />
+        <Route path="/">HOME</Route>
+      </div>
+    </Router>
     <CounterKit />
     <Counter />
     <img src={logo} alt="Svelte Logo" />
