@@ -2,6 +2,8 @@
 
 ## design
 
+- choose CamelCase or not
+- design LoginSelection page
 - design mobile general template (menu, player, browser)
 - design "select" view
 - design "playback" view

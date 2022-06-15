@@ -1,8 +1,8 @@
 <script>
-  import Button from '$lib/Button.svelte';
-  import Icon from '$lib/Icon.svelte';
-  import ButtonStyle from '$utils/ButtonStyle';
-  import RoutePath from '$utils/RoutePath';
+  import Button from '~/components/Button.svelte';
+  import Icon from '~/components/Icon.svelte';
+  import ButtonStyle from '~/utils/ButtonStyle';
+  import RoutePath from '~/utils/RoutePath';
 </script>
 
 <svelte:head>
