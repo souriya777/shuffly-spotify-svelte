@@ -3,7 +3,6 @@
   import logo from '~/assets/svelte.png';
   import CounterKit from '~/components/CounterKit.svelte';
   import Counter from '~/components/Counter.svelte';
-
   import Page1 from './pages/Page1.svelte';
   import Page2 from './pages/Page2.svelte';
   // import SettingsPanel from "./components/SettingsPanel.vue";
@@ -12,8 +11,15 @@
   // import SettingsBtn from "./components/SettingsBtn.vue";
   import Screen from '~/components/Screen.svelte';
   // import RoutePath from "./utils/RoutePath";
-
   // const connectedTODO = false;
+  import { count } from '~/stores/stores';
+
+  function decrement() {
+    count.update((n) => n - 1);
+  }
+  function increment() {
+    count.update((n) => n + 1);
+  }
 
   export let url = '';
 </script>
@@ -37,7 +43,12 @@
       <div>
         <Route path="page1"><Page1 /></Route>
         <Route path="page2"><Page2 /></Route>
-        <Route path="/">HOME</Route>
+        <Route path="/">
+          <h1>Home</h1>
+          <button on:click={increment}>+</button>
+          <button on:click={decrement}>-</button>
+          <span>{$count}</span>
+        </Route>
       </div>
     </Router>
     <CounterKit />

@@ -1,9 +1,5 @@
 # TODO
 
-## tools
-
-- 👊 add stores
-
 ## design
 
 - design mobile general template (menu, player, browser)
