@@ -35,8 +35,8 @@
         <Link to="page2">Page2</Link>
       </nav>
       <div>
-        <Route path="page1" component={Page1} />
-        <Route path="page2" component={Page2} />
+        <Route path="page1"><Page1 /></Route>
+        <Route path="page2"><Page2 /></Route>
         <Route path="/">HOME</Route>
       </div>
     </Router>

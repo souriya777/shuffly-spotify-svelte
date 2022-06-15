@@ -2,7 +2,7 @@
 
 ## tools
 
-- add stores
+- 👊 add stores
 
 ## design
 
